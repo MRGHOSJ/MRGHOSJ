@@ -2,7 +2,7 @@
 
 <br /><br />
 
-Hi, i'm [Yassine Bouzouita](https://github.com/MRGHOSJ/), creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate client's ideas into a perfect running application / website.
+Hi, i'm [Yassine Bouzouita](https://github.com/MRGHOSJ/), creative coder and self-proclaimed designer who specializes in front-end development.
 
 - 💼 any freelance work? do reach, [email](mailto:bouzouitayassine@gmail.com) :)
 - 💬 ask me about anything, i am happy to help :D 
