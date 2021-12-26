@@ -2,7 +2,7 @@
 
 <br /><br />
 
-Hi, i'm [Yassine Bouzouita](https://github.com/MRGHOSJ/), creative coder and self-proclaimed designer who specializes in front-end development.
+Hi, i'm [Yassine Bouzouita](https://github.com/MRGHOSJ/), known as Ghost in some communities creative coder and self-proclaimed designer who specializes in front-end development.
 
 - 💼 any freelance work? do reach, [email](mailto:bouzouitayassine@gmail.com) :)
 - 💬 ask me about anything, i am happy to help :D 
