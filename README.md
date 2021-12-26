@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yassine Bouzouita</h1>
 <h3 align="center">also known as ghost in some communities, a creative coder and self-proclaimed designer who specializes in front-end development.</h3>
 
-
+<br/><br/>
 - 🌱 I’m currently learning **GoLang and C++**
 
 - 💬 Ask me about **anything!! :D**
