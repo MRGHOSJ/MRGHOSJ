@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yassine Bouzouita also known as ghost in some communities</h1>
-<h3 align="center">creative coder and self-proclaimed designer who specializes in front-end development.</h3>
+<h1 align="center">Hi 👋, I'm Yassine Bouzouita</h1>
+<h3 align="center">also known as ghost in some communities, a creative coder and self-proclaimed designer who specializes in front-end development.</h3>
 
 <p align="left"> <a href="https://twitter.com/bouzouitayassi2" target="blank"><img src="https://img.shields.io/twitter/follow/bouzouitayassi2?logo=twitter&style=for-the-badge" alt="bouzouitayassi2" /></a> </p>
 
