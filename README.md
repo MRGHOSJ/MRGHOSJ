@@ -35,15 +35,16 @@
 ### 📘 AutoDoc (Open Source)
 > 📄 Automatic documentation generator for Go, Python, JavaScript, and YAML  
 > 🧠 AI-assisted parsing, works in CI/CD and GitLab pipelines  
-🔗 [View Project](https://github.com/YOUR_USERNAME/AutoDoc)
+🔗 [View Project](https://github.com/MRGHOSJ/DocuPocus)
 
 ### 🚌 Public Transport Planner (Tunisia)
 > 🗺️ Real-time route planner with A* pathfinding and OCR schedule scraping  
-🔗 [View Project](https://github.com/YOUR_USERNAME/transport-tunisia)
+🔗 [View Backend Project](https://github.com/MRGHOSJ/transit-backend)
+🔗 [View Frontend Project](https://github.com/MRGHOSJ/transit-frontend)
 
 ### 🛍️ CLI Store (WIP)
 > 🧪 Linux terminal-based app store with GUI built in React + Electron  
-🔗 [View Repo](https://github.com/YOUR_USERNAME/cli-store)
+🔗 [View Repo](https://github.com/MRGHOSJ/CLI-Store)
 
 ---
 
@@ -57,7 +58,7 @@
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-bouzouita/) 
 [![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassine.bouzouita@esprit.tn)
 
 ---
